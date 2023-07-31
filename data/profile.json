@@ -50,8 +50,9 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex",
+      "url": "https://github.com/CHenriqueRibeiro/Projeto-Pokedex-Atualizado",
+      "url": "https://newpokedexatualizada.netlify.app",
       "github": true
     },
     {
