@@ -52,12 +52,16 @@
     {
       "name": "Pokedex",
       "url": "https://github.com/CHenriqueRibeiro/Projeto-Pokedex-Atualizado",
-      "url": "https://newpokedexatualizada.netlify.app",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Landing Page para Nutricionista",
+      "url": "https://github.com/CHenriqueRibeiro/SiteNutricionistra",
+      "github": true
+    },
+    {
+      "name": "Clone do Site HBOMAX",
+      "url": "https://github.com/CHenriqueRibeiro/SiteHBO",
       "github": true
     }
   ],
