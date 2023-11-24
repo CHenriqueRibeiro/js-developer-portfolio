@@ -27,12 +27,15 @@
         "name": "JS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
-      
+
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        " name": "TypeScript",
+        "logo": "https://vetores.org/wp-content/uploads/typescript.png"
       }
-      
     ],
     "softSkills": [
       "Comunicação pessoal",
@@ -42,12 +45,7 @@
       "Gerenciamento de tempo"
     ]
   },
-  "languages": [
-    "Português",
-    "Inglês (intermediário)",
-    "Espanhol (Básico)"
-    
-  ],
+  "languages": ["Português", "Inglês (intermediário)", "Espanhol (Básico)"],
   "portfolio": [
     {
       "name": "Pokedex",
