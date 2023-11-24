@@ -54,7 +54,7 @@ function updatePortfolio(profileData) {
             <h3><b>Projeto:<b/> <span>${project.name}</span></h3>
             <h4>Descrição: <span>${project.descricao}</span></h4>
             <h4>Tecnologia usada:   <span>${project.tecnologia}</span></h4>
-            <a href="${project.url}" target="_blank"><b>Repositório :</b> <span>${project.url}</span></a><br/>
+            <a href="${project.url}" target="_blank"><b>Repositório :</b> <span>${project.url}</span></a><br/><br/>
            <a href="${project.deploy}" target="_blank"> <b>Deploy :</b> <span>${project.deploy}</span></a>
             </li>
            
