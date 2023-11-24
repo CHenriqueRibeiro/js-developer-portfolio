@@ -12,6 +12,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       },
       {
+        "name": "GITHUB",
+        "logo": "https://github.com/CHenriqueRibeiro/js-developer-portfolio/blob/main/data/imgs/github.png"
+      },
+      {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
@@ -20,21 +24,32 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Bootstrap",
-        "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/8912f68381a88b862cd802004708ac0c8755b2a9/data/imgs/bootstrap.svg"
-      },
-      {
         "name": "JS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
-
+      {
+        " name": "TypeScript",
+        "logo": "https://cdn.changelog.com/uploads/icons/topics/YXL/icon_small.png?v=63682389432"
+      },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        " name": "TypeScript",
-        "logo": "https://cdn.changelog.com/uploads/icons/topics/YXL/icon_small.png?v=63682389432"
+        "name": "Firebase",
+        "logo": "https://w7.pngwing.com/pngs/398/821/png-transparent-firebase-google-google-i-o-icon-thumbnail.png"
+      },
+      {
+        " name": "Material UI",
+        "logo": "https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png"
+      },
+      {
+        " name": "Styled Components",
+        "logo": "https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
+      },
+      {
+        "name": "Bootstrap",
+        "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/8912f68381a88b862cd802004708ac0c8755b2a9/data/imgs/bootstrap.svg"
       }
     ],
     "softSkills": [
@@ -48,18 +63,27 @@
   "languages": ["Português", "Inglês (intermediário)", "Espanhol (Básico)"],
   "portfolio": [
     {
-      "name": "Pokedex",
-      "url": "https://github.com/CHenriqueRibeiro/Projeto-Pokedex-Atualizado",
+      "name": "cheGO!",
+      "descricao": "Sitema para restaurantes e lanchonetes, no qual desenvolvi cardapio digitial e um painel Admin para o dono/gerente aceitar, cancelar e acompanhar o pedido de cada cliente.",
+      "tecnologia":"React Js, Firebase, Material UI. ",
+      "url": "https://github.com/appcheGO/cheGO",
+      "deploy" : "https://che-go.vercel.app/",
       "github": true
     },
     {
-      "name": "Landing Page para Nutricionista",
-      "url": "https://github.com/CHenriqueRibeiro/SiteNutricionistra",
+      "name": "cheGO!/Garçom",
+      "descricao": "Sitema para o garçom lançar pedidos na comanda/mesa selecionada, para que os dados possam ir para o firebase e serem acessados pelo admin da aplicação cheGO!",
+      "tecnologia":"React Js, Firebase, Material UI. ",
+      "url": "https://github.com/appcheGO/app-cheGO-garcom",
+      "deploy" : "https://app-che-go-garcom.vercel.app/",
       "github": true
     },
     {
-      "name": "Clone do Site HBOMAX",
-      "url": "https://github.com/CHenriqueRibeiro/SiteHBO",
+      "name": "Página E-commerce",
+      "descricao": "Página de E-commerce com produtos, quando clica no produto acrescenta no carrinho.",
+      "tecnologia":"React Js, TypeScript, React Query, Styled Components. ",
+      "url": "https://github.com/CHenriqueRibeiro/mks-frontend-challenge-HenriqueRibeiro",
+      "deploy" : "https://mks-frontend-challenge-henrique-ribeiro-phi.vercel.app/",
       "github": true
     }
   ],
