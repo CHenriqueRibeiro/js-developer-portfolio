@@ -65,26 +65,23 @@
     {
       "name": "cheGO!",
       "descricao": "Sitema para restaurantes e lanchonetes, no qual desenvolvi cardapio digitial e um painel Admin para o dono/gerente aceitar, cancelar e acompanhar o pedido de cada cliente.",
-      "tecnologia":"React Js, Firebase, Material UI. ",
+      "tecnologia": "React Js, Firebase, Material UI. ",
       "url": "https://github.com/appcheGO/cheGO",
-      "deploy" : "https://che-go.vercel.app/",
-      "github": true
+      "deploy": "https://che-go.vercel.app/"
     },
     {
       "name": "cheGO!/Garçom",
       "descricao": "Sitema para o garçom lançar pedidos na comanda/mesa selecionada, para que os dados possam ir para o firebase e serem acessados pelo admin da aplicação cheGO!",
-      "tecnologia":"React Js, Firebase, Material UI. ",
+      "tecnologia": "React Js, Firebase, Material UI. ",
       "url": "https://github.com/appcheGO/app-cheGO-garcom",
-      "deploy" : "https://app-che-go-garcom.vercel.app/",
-      "github": true
+      "deploy": "https://app-che-go-garcom.vercel.app/"
     },
     {
       "name": "Página E-commerce",
       "descricao": "Página de E-commerce com produtos, quando clica no produto acrescenta no carrinho.",
-      "tecnologia":"React Js, TypeScript, React Query, Styled Components. ",
+      "tecnologia": "React Js, TypeScript, React Query, Styled Components. ",
       "url": "https://github.com/CHenriqueRibeiro/mks-frontend-challenge-HenriqueRibeiro",
-      "deploy" : "https://mks-frontend-challenge-henrique-ribeiro-phi.vercel.app/",
-      "github": true
+      "deploy": "https://mks-frontend-challenge-henrique-ribeiro-phi.vercel.app/"
     }
   ],
   "professionalExperience": [

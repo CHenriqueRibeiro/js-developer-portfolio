@@ -51,16 +51,13 @@ function updatePortfolio(profileData) {
     .map((project) => {
       return `
             <li>
-            <h3${project.github ? 'class="github"' : ""}>${project.name}</h3>
-            <h5>Descrição: ${project.descricao}</h5>
-            <h5>Tecnologia usada:  ${project.tecnologia}</h5>
-            <a href="${project.url}" target="_blank"><b>Repositório :</b> ${
-        project.url
-      }</a><br/>
-           <a href="${project.deploy}" target="_blank"> <b>Deploy :</b> ${
-        project.deploy
-      }</a>
+            <h3><b>Projeto:<b/> <span>${project.name}</span></h3>
+            <h4>Descrição: <span>${project.descricao}</span></h4>
+            <h4>Tecnologia usada:   <span>${project.tecnologia}</span></h4>
+            <a href="${project.url}" target="_blank"><b>Repositório :</b> <span>${project.url}</span></a><br/>
+           <a href="${project.deploy}" target="_blank"> <b>Deploy :</b> <span>${project.deploy}</span></a>
             </li>
+           
         `;
     })
     .join("");
