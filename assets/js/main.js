@@ -52,16 +52,12 @@ function updatePortfolio(profileData) {
       return `
             <li>
             <h3${project.github ? 'class="github"' : ""}>${project.name}</h3>
-            <h5${project.descricao ? 'class="github"' : ""}>Descrição: ${
-        project.descricao
-      }</h5>
-            <h5 Tecnologia usada: ${
-              project.tecnologia ? 'class="github"' : ""
-            }>${project.tecnologia}</h5>
-            <a href="${project.url}" target="_blank">Repositório : ${
+            <h5>Descrição: ${project.descricao}</h5>
+            <h5>Tecnologia usada:  ${project.tecnologia}</h5>
+            <a href="${project.url}" target="_blank"><b>Repositório :</b> ${
         project.url
-      }</a>
-            <a href="${project.deploy}" target="_blank">Deploy : ${
+      }</a><br/>
+           <a href="${project.deploy}" target="_blank"> <b>Deploy :</b> ${
         project.deploy
       }</a>
             </li>
