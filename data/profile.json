@@ -54,6 +54,10 @@
       {
         "name": "Bootstrap",
         "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/8912f68381a88b862cd802004708ac0c8755b2a9/data/imgs/bootstrap.svg"
+      },
+      {
+        "name": "Node.Js",
+        "logo": "https://github.com/CHenriqueRibeiro/js-developer-portfolio/blob/main/data/imgs/nodejs.png"
       }
     ],
     "softSkills": [
