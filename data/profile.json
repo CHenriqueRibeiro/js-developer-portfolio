@@ -1,7 +1,7 @@
 {
   "name": "Henrique Ribeiro",
   "photo": "https://avatars.githubusercontent.com/u/124113375?v=4",
-  "job": "Desenvolvedor Front End",
+  "job": "Desenvolvedor FullStack | Mobile",
   "location": "Caucaia -CE",
   "phone": "(85) 985847007",
   "email": "chmr66@gmail.com",
@@ -36,6 +36,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
+        "name": "React Native",
+        "logo": "https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png"
+      },
+      {
         "name": "Firebase",
         "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/main/data/imgs/Firebase-PhotoRoom.png-PhotoRoom.png"
       },
@@ -60,7 +64,11 @@
       "Gerenciamento de tempo"
     ]
   },
-  "languages": ["Português", "Inglês (intermediário)", "Espanhol (Básico)"],
+  "languages": [
+    "Português",
+    "Inglês (intermediário)",
+    "Espanhol (Básico)"
+  ],
   "portfolio": [
     {
       "name": "cheGO!",
