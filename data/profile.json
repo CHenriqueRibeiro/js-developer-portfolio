@@ -94,13 +94,20 @@
       "tecnologia": "React Js, TypeScript, React Query, Styled Components. ",
       "url": "https://github.com/CHenriqueRibeiro/mks-frontend-challenge-HenriqueRibeiro",
       "deploy": "https://mks-frontend-challenge-henrique-ribeiro-phi.vercel.app/"
+    },
+    {
+      "name": "LavaJá",
+      "descricao": "Aplicativo inovador voltado para o agendamento de veículos em serviços de lava-rápido. Desenvolvido utilizando React Native, Firebase e GlueStack, o aplicativo oferece uma experiência intuitiva e eficiente para os usuários. Além disso, integrei o sistema com APIs externas para aprimorar ainda mais a funcionalidade do aplicativo, proporcionando uma solução completa e moderna para o agendamento de serviços automotivos. Este projeto destaca minha expertise em desenvolvimento mobile e meu compromisso em oferecer soluções práticas e inovadoras.",
+      "tecnologia": "React Native, Gluestack UI, API de geolocalização(OpenCage), Firebase. ",
+      "url": "https://github.com/CHenriqueRibeiro/app-Lavacar",
+      "deploy": "Em breve no Google Play e App Store"
     }
   ],
   "professionalExperience": [
     {
       "name": "Desenvolvedor Front - End / Freelancer",
       "period": "2023 - Jan/ até o momento",
-      "description": "Elaborando landing Page, sites e aplicaçoes web."
+      "description": "Elaborando landing Page, sites e aplicaçoes web e aplicativos"
     },
     {
       "name": "Bancário / Santander Brasil",
