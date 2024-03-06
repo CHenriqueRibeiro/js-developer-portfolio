@@ -37,7 +37,7 @@
       },
       {
         "name": "React Native",
-        "logo": "https://github.com/CHenriqueRibeiro/js-developer-portfolio/blob/main/data/imgs/logoRN.png?raw=true"
+        "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/main/data/imgs/logorn.png"
       },
       {
         "name": "Firebase",
@@ -57,7 +57,7 @@
       },
       {
         "name": "Node.Js",
-        "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/main/data/imgs/logonode.png"
       }
     ],
     "softSkills": [
