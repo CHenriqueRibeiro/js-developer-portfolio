@@ -11,6 +11,7 @@
     border-radius: 50%;
 }
 
+
 .header .title {
     font-family: 'Neue Machina';
     text-align: center;
@@ -54,6 +55,9 @@
 }
 
 .information .phone::before {
+    background-image: url('../img/icons/phone.svg');
+}
+.information .github::before {
     background-image: url('../img/icons/phone.svg');
 }
 

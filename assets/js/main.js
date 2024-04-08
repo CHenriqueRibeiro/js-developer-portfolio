@@ -12,6 +12,9 @@ function updateProfileInfo(profileData) {
   const location = document.getElementById("profile.location");
   location.innerText = profileData.location;
 
+  const github = document.getElementById("profile.github");
+  github.innerText = profileData.github;
+
   const phone = document.getElementById("profile.phone");
   phone.innerText = profileData.phone;
   phone.href = `https://api.whatsapp.com/send?phone=5585985847007`;
