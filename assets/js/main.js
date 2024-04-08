@@ -12,7 +12,7 @@ function updateProfileInfo(profileData) {
   const location = document.getElementById("profile.location");
   location.innerText = profileData.location;
 
-  const github = document.getElementById("profile.linkedin");
+  const linkedin = document.getElementById("profile.linkedin");
   linkedin.innerText = profileData.linkedin;
   linkedin.href = "https://www.linkedin.com/in/henriqueribeirodev/"
 
