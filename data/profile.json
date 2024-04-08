@@ -58,6 +58,18 @@
       {
         "name": "Node.Js",
         "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/main/data/imgs/logonode.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "Expo",
+        "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/main/data/imgs/expoLogo.png"
+      },
+      {
+        "name": "GlueStack",
+        "logo": "https://raw.githubusercontent.com/CHenriqueRibeiro/js-developer-portfolio/main/data/imgs/gluestacklogo.png"
       }
     ],
     "softSkills": [
@@ -89,18 +101,25 @@
       "deploy": "https://app-che-go-garcom.vercel.app/"
     },
     {
-      "name": "Página E-commerce",
-      "descricao": "Página de E-commerce com produtos, quando clica no produto acrescenta no carrinho.",
-      "tecnologia": "React Js, TypeScript, React Query, Styled Components. ",
-      "url": "https://github.com/CHenriqueRibeiro/mks-frontend-challenge-HenriqueRibeiro",
-      "deploy": "https://mks-frontend-challenge-henrique-ribeiro-phi.vercel.app/"
-    },
-    {
       "name": "LavaJá",
       "descricao": "Aplicativo inovador voltado para o agendamento de veículos em serviços de lava-rápido. Desenvolvido utilizando React Native, Firebase e GlueStack, o aplicativo oferece uma experiência intuitiva e eficiente para os usuários. Além disso, integrei o sistema com APIs externas para aprimorar ainda mais a funcionalidade do aplicativo, proporcionando uma solução completa e moderna para o agendamento de serviços automotivos. Este projeto destaca minha expertise em desenvolvimento mobile e meu compromisso em oferecer soluções práticas e inovadoras.",
       "tecnologia": "React Native, Gluestack UI, API de geolocalização(OpenCage), Firebase. ",
       "url": "https://github.com/CHenriqueRibeiro/app-Lavacar",
       "deploy": "Em breve no Google Play e App Store"
+    },
+    {
+      "name": "Admin-LavaJá",
+      "descricao": "AdminLavaJá é uma aplicação web voltada para a gestão de agendamentos em serviços de lava-rápido. Desenvolvida utilizando ReactJS, Material UI, Firebase, React Router e Vite, a plataforma oferece uma interface intuitiva e eficiente para os gestores acompanharem os agendamentos, acessarem relatórios e realizarem cadastros e alterações conforme necessário. Esta aplicação destaca minha experiência em desenvolvimento web e meu compromisso em oferecer soluções práticas e inovadoras para a gestão de serviços automotivos.",
+      "tecnologia": "ReactJS, Material UI, Firebase, React Router, Vite ",
+      "url": "https://github.com/CHenriqueRibeiro/PainelAdmin",
+      "deploy": "https://adminlavaja.vercel.app/"
+    },
+    {
+      "name": "Página E-commerce",
+      "descricao": "Página de E-commerce com produtos, quando clica no produto acrescenta no carrinho.",
+      "tecnologia": "React Js, TypeScript, React Query, Styled Components. ",
+      "url": "https://github.com/CHenriqueRibeiro/mks-frontend-challenge-HenriqueRibeiro",
+      "deploy": "https://mks-frontend-challenge-henrique-ribeiro-phi.vercel.app/"
     }
   ],
   "professionalExperience": [
