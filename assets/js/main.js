@@ -14,6 +14,7 @@ function updateProfileInfo(profileData) {
 
   const github = document.getElementById("profile.github");
   github.innerText = profileData.github;
+  github.href = "https://github.com/CHenriqueRibeiro"
 
   const phone = document.getElementById("profile.phone");
   phone.innerText = profileData.phone;
