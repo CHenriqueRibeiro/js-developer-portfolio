@@ -22,7 +22,7 @@ function updateProfileInfo(profileData) {
 
   const phone = document.getElementById("profile.phone");
   phone.innerText = profileData.phone;
-  phone.href = `https://api.whatsapp.com/send?phone=5585985847007`;
+  phone.href = `https://api.whatsapp.com/send?phone=5585987206514`;
 
   const email = document.getElementById("profile.email");
   email.innerText = profileData.email;
