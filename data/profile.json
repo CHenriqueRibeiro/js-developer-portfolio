@@ -130,9 +130,9 @@
   ],
   "professionalExperience": [
     {
-      "name": "Desenvolvedor FullStack ( Estagiário ) ",
+      "name": "Desenvolvedor FullStack",
       "period": "2024 - Abril/ até o momento",
-      "description": "No atual cargo, sou responsável por aplicar testes automatizados em toda a aplicação usando o framework Cypress. Além disso, desempenho um papel crucial no desenvolvimento de pequenas stacks para a equipe. Minhas responsabilidades incluem a criação e manutenção de testes automatizados para garantir a qualidade do software, bem como a implementação de componentes e funcionalidades específicas da aplicação. Meu trabalho contribui diretamente para a qualidade e o sucesso contínuo de nossos projetos."
+      "description": "Trabalho desenvolvendo e mantendo o sistema witto utilizando TypeScript, Node.js, AWS, Docker, Next.js, React e Express. Minha função envolve criar e atualizar interfaces de usuário interativas, configurar e gerenciar servidores backend, e implementar serviços em nuvem."
     },
     {
       "name": "Bancário / Santander Brasil",
