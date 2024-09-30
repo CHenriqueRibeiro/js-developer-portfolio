@@ -131,13 +131,13 @@
   "professionalExperience": [
     {
       "name": "Desenvolvedor FullStack",
-      "period": "2024 - Abril/ até o momento",
-      "description": "Trabalho desenvolvendo e mantendo o sistema witto utilizando TypeScript, Node.js, AWS, Docker, Next.js, React e Express. Minha função envolve criar e atualizar interfaces de usuário interativas, configurar e gerenciar servidores backend, e implementar serviços em nuvem."
+      "period": "Abril 2024 - até o momento",
+      "description": "Atuação no desenvolvimento e manutenção de aplicações web utilizando React, Next.js e Material-UI. Responsável pela criação e gestão de APIs com Node.js, TypeORM, e PostgreSQL. Implementação de soluções escaláveis em ambientes AWS. Colaboração com equipes de produto e design para criar interfaces intuitivas e experiências de usuário excepcionais. Realização de revisão de código para garantir qualidade e aderência aos padrões estabelecidos. Contribuição para a melhoria contínua dos processos de desenvolvimento e operações. Implementação de integrações com sistemas de OKRs, pesquisas de clima organizacional, avaliações de desempenho e outras ferramentas de RH. Monitoramento e otimização do desempenho de aplicações e sistemas em produção, Testes automatizados com Cypress e seguindo metodologias ágeis como Scrum e Kanban."
     },
     {
-      "name": "Bancário / Santander Brasil",
-      "period": "2020 - 2023",
-      "description": "Atendimento ao cliente visando entregar metas e performance."
+      "name": "Desenvolvedor FullStack",
+      "period": "2023 - Abril/2024",
+      "description": "Desenvolvimento de sites, aplicações web e aplicativos para usuários finais."
     }
   ]
 }
