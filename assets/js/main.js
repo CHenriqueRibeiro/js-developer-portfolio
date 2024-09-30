@@ -77,11 +77,13 @@ function updateProfessionalExperience(profileData) {
   );
   professionalExperience.innerHTML = profileData.professionalExperience
     .map((experience) => {
+      // Substitui quebras de linha por <br>
+      const formattedDescription = experience.description.replace(/\n/g, "<br>");
       return `
             <li>
                 <h3 class="title">${experience.name}</h3>
                 <p class="period">${experience.period}</p>
-                <p>${experience.description}</p>
+                <p>${formattedDescription}</p>
             </li>
         `;
     })
